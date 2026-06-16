@@ -1,3 +1,8 @@
+## To the previous review
+"Hey! Cool project, but it needs to be polished a bit before it can be approved, you can organise the files in speicific folders such as PCB/etc. I also believe this can be cost optimized a lot, please take a look at the docs, right now you can get 54$ worth of grant for the project but your BOM is totalling to 3 times of that, you should save costs on the PCBA, by trying to fit all components on one side, using components only from standard libray, getting only 2 pcba rather than 5, etc."
+
+I will reorganise the files into the folders. However, for the cost optimisation, it is not really possible for this project since the LEDs cannot be on the same side as the phototransistor and thus require a double-sided assembly. Getting only 2pcba rather than 5 only saves $10, so I may as well go with 5. I can pay the extra price that the grant cannot cover. also, some components are really big and cannot be on the same side as phototransistor else it would hit the ground, like the 47uf electrolytic capacitor
+
 ## There are no 3D Step files for this
 ### The sample code in the repository basically lights up the corresponding LEDs when the phototransistor detects black. The code also uses button 1 to start the program
 # Introduction
