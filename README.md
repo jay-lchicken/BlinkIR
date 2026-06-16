@@ -34,8 +34,10 @@ I decided to go with 4.7K resistors for the phototransistors, this helps balance
 ![Schematic P2](https://cdn.hackclub.com/019ece4e-82ea-7b56-8ce2-cf0930b38b01/Screenshot%202026-06-16%20at%2010.41.49%E2%80%AFAM.png)
 ![PCB](https://cdn.hackclub.com/019ece4f-2a49-70a7-94f8-dba5ba8c22e0/Screenshot%202026-06-16%20at%2010.42.25%E2%80%AFAM.png)
 
-# BOM
-# 📦 Bill of Materials (BOM)
+# BOM 
+
+![Image](https://cdn.hackclub.com/019ece52-260b-7ed0-982f-36fed8f12052/Screenshot%202026-06-16%20at%2010.45.45%E2%80%AFAM.png)
+# I dont have any shareable links since this is in JLCPCB)
 
 ## 🧾 Components
 
