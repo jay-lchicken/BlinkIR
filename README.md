@@ -34,4 +34,40 @@ I decided to go with 4.7K resistors for the phototransistors, this helps balance
 ![Schematic P2](https://cdn.hackclub.com/019ece4e-82ea-7b56-8ce2-cf0930b38b01/Screenshot%202026-06-16%20at%2010.41.49%E2%80%AFAM.png)
 ![PCB](https://cdn.hackclub.com/019ece4f-2a49-70a7-94f8-dba5ba8c22e0/Screenshot%202026-06-16%20at%2010.42.25%E2%80%AFAM.png)
 
-Some pictures of the design
+# BOM
+# 📦 Bill of Materials (BOM)
+
+## 🧾 Components
+
+| Part Number | Selected By | Qty | Cost |
+|------------|------------|-----|------|
+| FRC1206F4700TS | System | 15 | $0.08 |
+| 0402WGF3300TCE | System | 20 | $0.02 |
+| CL10A106KP8NNNC | System | 40 | $0.36 |
+| 0603WAF1003T5E | System | 40 | $0.03 |
+| NTD3528I7 | System | 44 | $1.66 |
+| TPS63070RNMT | System | 5 | $8.42 |
+| CL31A226KAHNNNE | System | 14 | $2.50 |
+| 0805W8F4702T5E | System | 20 | $0.04 |
+| 0805W8F5233T5E | System | 20 | $0.05 |
+| KT-0603W | System | 20 | $0.24 |
+| RVT102470M0505 | Customer | 20 | $0.58 |
+| SK6812 | System | 42 | $3.73 |
+| 0805W8F4701T5E | System | 46 | $0.10 |
+| 2.54-1×3P# | Customer | 12 | $0.29 |
+| MPT0603GT | System | 44 | $1.83 |
+| CL05B104K05NNNC | System | 40 | $0.05 |
+| 1206W4F1002T5E | System | 15 | $0.09 |
+| CMI060808U22RK7 | System | 20 | $0.34 |
+| JSM2302 | Customer | 15 | $0.30 |
+| CL10A105KB8NNNC | System | 20 | $0.22 |
+| KMR221GLFS | System | 10 | $5.31 |
+| 0603WAF470J5E | System | 40 | $0.08 |
+
+## 💰 Cost Summary
+
+| Category | Amount |
+|----------|--------|
+| Merchandise Total (incl. assembly) | $153.07 |
+| Shipping (Estimated) | $8.85 |
+| **Subtotal** | **$161.92** |
