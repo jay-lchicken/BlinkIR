@@ -1,4 +1,5 @@
 ## There are no 3D Step files for this
+### The sample code in the repository basically lights up the corresponding LEDs when the phototransistor detects black. The code also uses button 1 to start the program
 # Introduction
 
 I created this project when I saw a super fast line tracing robot. I thought about what was needed and since one of the most crucial components for a line tracing robot is the IR Array Sensor, I decided
