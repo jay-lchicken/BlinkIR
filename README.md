@@ -3,7 +3,6 @@
 
 I will reorganise the files into the folders. However, for the cost optimisation, it is not really possible for this project since the LEDs cannot be on the same side as the phototransistor and thus require a double-sided assembly. Getting only 2pcba rather than 5 only saves $10, so I may as well go with 5. I can pay the extra price that the grant cannot cover. also, some components are really big and cannot be on the same side as phototransistor else it would hit the ground, like the 47uf electrolytic capacitor
 
-## There are no 3D Step files for this
 ### The sample code in the repository basically lights up the corresponding LEDs when the phototransistor detects black. The code also uses button 1 to start the program
 # Introduction
 
@@ -44,7 +43,6 @@ I decided to go with 4.7K resistors for the phototransistors, this helps balance
 # BOM 
 
 ![Image](https://cdn.hackclub.com/019ece52-260b-7ed0-982f-36fed8f12052/Screenshot%202026-06-16%20at%2010.45.45%E2%80%AFAM.png)
-# I dont have any shareable links since this is in JLCPCB)
 
 ## 🧾 Components
 
